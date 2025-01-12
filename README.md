@@ -1,5 +1,4 @@
 # Destiny-Stealer
-# Destiny-Stealer
 
 This project is for **educational purposes only**.
 
