@@ -22,5 +22,9 @@ Here's how the project looks:
    ```bash
    git clone https://github.com/yourusername/Destiny-Stealer.git
 
+### How to Install DevExpress
+   ```bash
+   you can download it from their website
+   https://www.devexpress.com/
 
 
