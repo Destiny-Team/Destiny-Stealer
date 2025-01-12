@@ -6,6 +6,8 @@ This project is for **educational purposes only**.
 
 The **Destiny-Stealer** project is designed to demonstrate how certain functionalities can be implemented in a project. Please note that this is strictly for learning how things work and should not be used for malicious purposes.
 
+Destiny Stealer Will Be Available On Releases, Just If You Want To Try Or Use It Without Project Needed.
+
 ### Prerequisites
 
 To build and run this project, you must install **DevExpress**. Without it, the project may throw errors during compilation or runtime.
