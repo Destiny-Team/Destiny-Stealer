@@ -1,14 +1,27 @@
 # Destiny-Stealer
-This Project Is Only For Educational Purposes.
+# Destiny-Stealer
 
-*** If You Want To Edit The Project And Learn From It, You Have To Install DevExpress Or Project Can Give Some Errors ***
+This project is for **educational purposes only**.
 
-*** This Is How It Looks ***
-![777deynisty777](https://github.com/user-attachments/assets/4c669f44-4c15-49ff-84a3-95852424925f)
+## Overview
+
+The **Destiny-Stealer** project is designed to demonstrate how certain functionalities can be implemented in a project. Please note that this is strictly for learning how things work and should not be used for malicious purposes.
+
+### Prerequisites
+
+To build and run this project, you must install **DevExpress**. Without it, the project may throw errors during compilation or runtime.
+
+### Project Screenshot
+
+Here's how the project looks:
+
+![Destiny-Stealer Screenshot](https://github.com/user-attachments/assets/4c669f44-4c15-49ff-84a3-95852424925f)
+
+### How to Get Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Destiny-Stealer.git
 
 
 
-
-*** Don't Forget To Star // Fork ***
-
-*** This Project is Only For Educational Purposes, And Has Been Showen What Can Be Done, And Only Use It For Learning To Understand How All Works. ***
