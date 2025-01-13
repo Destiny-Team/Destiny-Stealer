@@ -62,6 +62,9 @@ const wallets = [
 Target: Documents, Desktop
 File Types: .txt, .pdf, .docx, .png
 
+
+6. And Alot More Features.
+
 ### How to Get Started
 
 1. Clone the repository:
