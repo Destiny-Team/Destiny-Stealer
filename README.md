@@ -16,7 +16,9 @@ To build and run this project, you must install **DevExpress**. Without it, the 
 
 Here's how the project looks:
 
-![Destiny-Stealer Screenshot](https://github.com/user-attachments/assets/4c669f44-4c15-49ff-84a3-95852424925f)
+![Untitled](https://github.com/user-attachments/assets/5d2952e9-e8d5-4ac5-97be-0763dc2c3723)
+
+
 
 ## Features
 1. Discord Token Stealer
