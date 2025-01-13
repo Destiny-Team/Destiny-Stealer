@@ -18,6 +18,48 @@ Here's how the project looks:
 
 ![Destiny-Stealer Screenshot](https://github.com/user-attachments/assets/4c669f44-4c15-49ff-84a3-95852424925f)
 
+## Features
+1. Discord Token Stealer
+- Discord Stable
+- Discord PTB
+- Discord Canary
+
+2. Browser Data Extraction
+• Google Chrome
+• Mozilla Firefox
+• Microsoft Edge
+• Opera / Opera GX
+• Brave Browser
+• Vivaldi
+• Internet Explorer
+
+Data types extracted:
+- Saved Passwords
+- Cookies
+- Browsing History
+- Autofill Data
+
+3. PC Information Grabber
+- Hardware: CPU, GPU, RAM, Motherboard
+- OS: Version, Build, Architecture
+- Network: Public/Private IP, MAC Address
+- Software: Installed Applications, Running Processes
+
+4. Cryptocurrency Wallet Stealer
+const wallets = [
+  "Exodus",
+  "MetaMask",
+  "Trust Wallet",
+  "Coinbase Wallet",
+  "Electrum",
+  "Atomic Wallet",
+  "Binance Chain Wallet",
+]
+
+5. File Grabber
+Target: Documents, Desktop
+File Types: .txt, .pdf, .docx, .png
+
 ### How to Get Started
 
 1. Clone the repository:
