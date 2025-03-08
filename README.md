@@ -1,5 +1,6 @@
 # Destiny-Stealer
-
+NOTE: This project has been rebranded as ZeroTrace Stealer.
+Here is the new repository: https://github.com/luis22d/ZeroTrace-Panel
 This project is for **educational purposes only**.
 
 ## Overview
